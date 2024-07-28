@@ -9,6 +9,8 @@ The software was started with following goals in mind:
 4. Make India a high-trust society
 
 ## High Level Architecture
+> [!NOTE]  
+> This is a very early project with many of the decisions not finalized yet.
 - To be built on Supabase
 - Nextjs will be the interface
 
@@ -18,5 +20,3 @@ The software was started with following goals in mind:
 | User Management | ❌ | - User auth - User levels - Moderation features                                                                                                                                                                                          |
 | Background data | ❌ | - Gov departments - Designations and roles - State and national political information - National entities - Key people (present and past)                                                                                                |
 | Issue tracking  | ❌ | - Creation of issue (with info like department, region, responsible role, etc) - Tracking of issue (reported by creator or public, later by authorities if they join) - Resolutions process (tbd) - Culprit revelation and actions taken |
-
-This is the initial roadmap for the MVP.
