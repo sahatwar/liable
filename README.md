@@ -15,6 +15,9 @@ The software was started with following goals in mind:
 - Nextjs will be the interface
 
 ## Roadmap
+> [!NOTE]  
+> Since this a project in its early phase, the features will be enhanced and extended to do much more once a strong base is created.
+
 | Features        | Status| Sub-tasks  |
 |-----------------|---|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | User Management | ❌ | - User auth - User levels - Moderation features                                                                                                                                                                                          |
