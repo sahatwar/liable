@@ -1,4 +1,4 @@
-26111950 introduces, open-source public issue tracker which tracks, reveals roadblocks, and improves govt processes,
+2611950 introduces, open-source public issue tracker which tracks, reveals roadblocks, and improves govt processes,
 # liable
 ## Goals
 
