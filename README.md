@@ -2,7 +2,7 @@
 # liable
 ## Goals
 
-The software was started with following goals in mind:
+The project was started with following goals in mind:
 1. Track public grievances in public
 2. Public should have the last say in resolutions
 3. Catch the culprits behind any discrepencies
